@@ -8,6 +8,8 @@
  </td>
  </tr>
 </table>
-<a ref=tree/wiki> Wiki </a>
+
+https://github.com/zuloloxi/mcl/tree/wiki
+
 # mcl
 Automatically exported from code.google.com/p/mcl
